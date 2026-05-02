@@ -569,7 +569,7 @@ st.markdown(
     Used for educational dashboard development and music trend analysis.<br><br>
     <b>Note:</b> This dashboard is for academic and educational purposes only. The analysis describes patterns in the
     provided dataset and should not be interpreted as official Spotify platform statistics.
-    <b>Data Source:</b> Kaggle -
+    <b>Data Source:</b> Kaggle -https://www.kaggle.com/datasets/thedevastator/spotify-tracks-genre-dataset?fbclid=IwY2xjawRisUJleHRuA2FlbQIxMABicmlkETFHeHdkU1lNT3pqTXhuNERqc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHrx2ly4UvlS9-yeZEiUZduvgcFWleadr8jIE4AfMIBCkTQh9yAa-Ksfs3z6b_aem_oI4GFN1Fovf1EoHBWmBNIQ
     </div>
     """,
     unsafe_allow_html=True
