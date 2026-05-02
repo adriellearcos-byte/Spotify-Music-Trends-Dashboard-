@@ -200,7 +200,7 @@ st.markdown(
 st.markdown(
     """
     <div class='small-note'>
-    <b>Team Members:</b> Ralph Victor L. Ilarde, Member 2, Member 3<br>
+    <b>Team Members:</b> Ralph Victor L. Ilarde, Adrielle Arcos, Charmaine Cachila<br>
     <b>Dashboard Theme:</b> Music analytics, listener trends, and audio feature exploration
     </div>
     """,
