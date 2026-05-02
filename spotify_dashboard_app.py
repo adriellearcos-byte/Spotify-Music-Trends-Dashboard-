@@ -569,10 +569,9 @@ st.markdown(
     Used for educational dashboard development and music trend analysis.<br><br>
     <b>Note:</b> This dashboard is for academic and educational purposes only. The analysis describes patterns in the
     provided dataset and should not be interpreted as official Spotify platform statistics.
+    <b>Data Source:</b> Kaggle -
     </div>
     """,
     unsafe_allow_html=True
 )
-st.markdown("---")
-st.caption("Data Source: Kaggle - Manga, Manhwa and Manhua Dataset")
-st.caption("Team Members: Adrielle Arcos, Charmaine Cachila, Ralph Ilarde")
+
