@@ -573,3 +573,6 @@ st.markdown(
     """,
     unsafe_allow_html=True
 )
+st.markdown("---")
+st.caption("Data Source: Kaggle - Manga, Manhwa and Manhua Dataset")
+st.caption("Team Members: Adrielle Arcos, Charmaine Cachila, Ralph Ilarde")
